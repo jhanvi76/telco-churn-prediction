@@ -1,9 +1,7 @@
 # Telco-churn-prediction
 ML pipeline to predict customer churn on the Telco dataset — includes SMOTE, hyperparameter tuning, and SHAP explainability (XGBoost, ROC-AUC 0.83).
 
-# Customer Churn Prediction
-
-A machine learning project that predicts telecom customer churn using the IBM/Kaggle **Telco Customer Churn** dataset. The notebook walks through data cleaning, feature engineering, model building, hyperparameter tuning, interpretability (SHAP), and business-focused risk segmentation.
+It is a machine learning project that predicts telecom customer churn using the IBM/Kaggle **Telco Customer Churn** dataset. The notebook walks through data cleaning, feature engineering, model building, hyperparameter tuning, interpretability (SHAP), and business-focused risk segmentation.
 
 ## Overview
 
