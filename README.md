@@ -90,4 +90,4 @@ The tuned XGBoost model performed best overall. Note that Random Forest (Tuned) 
 
 ## Author
 
-**Jhanvi** — MCA Student, BVICAM, New Delhi
+**Jhanvi Khanna**  
